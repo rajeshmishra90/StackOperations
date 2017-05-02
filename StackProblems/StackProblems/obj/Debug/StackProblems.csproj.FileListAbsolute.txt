@@ -1,0 +1,6 @@
+c:\users\rajeshm\documents\visual studio 2015\Projects\StackProblems\StackProblems\bin\Debug\StackProblems.exe.config
+c:\users\rajeshm\documents\visual studio 2015\Projects\StackProblems\StackProblems\bin\Debug\StackProblems.exe
+c:\users\rajeshm\documents\visual studio 2015\Projects\StackProblems\StackProblems\bin\Debug\StackProblems.pdb
+c:\users\rajeshm\documents\visual studio 2015\Projects\StackProblems\StackProblems\obj\Debug\StackProblems.csprojResolveAssemblyReference.cache
+c:\users\rajeshm\documents\visual studio 2015\Projects\StackProblems\StackProblems\obj\Debug\StackProblems.exe
+c:\users\rajeshm\documents\visual studio 2015\Projects\StackProblems\StackProblems\obj\Debug\StackProblems.pdb
